@@ -1,0 +1,7 @@
+c:\users\rachael\source\repos\Lab 6\Lab 6\obj\Debug\Lab 6.csprojResolveAssemblyReference.cache
+c:\users\rachael\source\repos\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.CoreCompileInputs.cache
+C:\Users\Rachael\source\repos\Lab 6\Lab 6\bin\Debug\Lab 6.exe.config
+C:\Users\Rachael\source\repos\Lab 6\Lab 6\bin\Debug\Lab 6.exe
+C:\Users\Rachael\source\repos\Lab 6\Lab 6\bin\Debug\Lab 6.pdb
+C:\Users\Rachael\source\repos\Lab 6\Lab 6\obj\Debug\Lab 6.exe
+C:\Users\Rachael\source\repos\Lab 6\Lab 6\obj\Debug\Lab 6.pdb
